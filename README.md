@@ -1,3 +1,3 @@
-# [CrediteCalculator](https://Zailoodin.github.io/CrediteCalculator/)
+[CrediteCalculator](https://Zailoodin.github.io/CrediteCalculator/)
 
 Кредитный калкульятор
